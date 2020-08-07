@@ -1,0 +1,9 @@
+div span {
+    font-weight: 900;
+  }
+
+img {
+    width: 300px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
